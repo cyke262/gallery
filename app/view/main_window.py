@@ -72,7 +72,7 @@ class MainWindow(FluentWindow):
         self.resize(960, 780)
         self.setMinimumWidth(760)
         self.setWindowIcon(QIcon(':/gallery/images/logo.png'))
-        self.setWindowTitle('PyQt-Fluent-Widgets')
+        self.setWindowTitle('GALlauncher-你的galgame管理软件兼聚合启动器')
 
         self.setMicaEffectEnabled(cfg.get(cfg.micaEnabled))
 

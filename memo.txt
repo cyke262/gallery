@@ -1,3 +1,0 @@
-MAX: window resized: 1536 862
-MIN: window resized: 960 780
-MAX: interface resized: 864 410
